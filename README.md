@@ -1,13 +1,13 @@
 # Go generic lazy
 
 ```shell
-go get -u github.com/go-saas/lazy
+go get -u github.com/jace996/lazy
 ```
 
 ```go
 import (
     "context"
-    "github.com/go-saas/lazy"
+    "github.com/jace996/lazy"
 )
 
 type A struct {
